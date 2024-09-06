@@ -35,3 +35,7 @@ screen MapUI():
         hover "map/serre_hover.png"
         action Jump("serre_pressed")
 ```
+
+## Sources
+
+**Background** by [『Shining Nikki』](https://www.pixiv.net/en/artworks/74214546)
